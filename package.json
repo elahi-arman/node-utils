@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@elahia/utils",
   "version": "0.0.1",
   "description": "utilities for writing node.js code",
   "main": "index.js",
