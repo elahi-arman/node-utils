@@ -33,4 +33,4 @@ const mustBeNumber = (str, { min, max, label }) => {
   return n;
 };
 
-module.exports = mustBeInt;
+module.exports = mustBeNumber;
